@@ -35,7 +35,7 @@ Clone this repository to your local machine:
 (git clone https://github.com/Arpitashukla09/Arduino-GPS-GSM-Bulwark.git)
 
 ## Upload Code:
-Open the project in the Arduino IDE and upload the provided code to the Arduino board.
+Open the project in the Arduino IDE and upload the provided code (https://github.com/Arpitashukla09/Arduino-GPS-GSM-Bulwark/blob/main/Arduino%20Code) to the Arduino board.
 
 ## Configuration:
 Modify any configuration settings as needed, such as phone numbers for alerts.
